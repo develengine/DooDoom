@@ -1,0 +1,13 @@
+body {
+    color: #FFFFFF;
+    background-color: #000000;
+    text-align: center;
+}
+
+#canvas {
+    /* position: center; */
+    width: 1280px;
+    height: 720px;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+}
